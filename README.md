@@ -1,7 +1,7 @@
 ### Hi there 👋 
-My name is Faizan Hussain. I am currently persuing a bachelors in computer science at Cal State Northridge. I am in my senior year at university and I am persuing a career as a software engineer.
-SKILL SET: Java, c++, Javascript, HTML, C
-- 🔭 I’m currently working on new projects to publish primarily using java.
-- 🌱 I’m currently learning how to code in python and as many other languages as I can 
+My name is Faizan Hussain. I am currently persuing a bachelors in computer science at California State University Northridge. I am a senior with an expexted graduation date of May 2022
+SKILL SET: JavaScript, Python, Java, Spring Boot, TestRail, Jira, Splunk, MuleSoft (API Development)
+- 🔭 I’m currently working on a javascript web game called Climate Saver that will be used to educate k-12 students on climate change
+- 🌱 I’m currently learning to master my skills in JavaScript
 - 📫 How to reach me: faizan.hussain.work@gmail.com
 - ⚡ Fun fact: I weight lift and play basketball as my hobbies!
